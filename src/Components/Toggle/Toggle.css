@@ -1,0 +1,23 @@
+.t {
+    width: 50px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: gold;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(40, 36, 36);
+    position: absolute;
+    cursor: pointer;
+}
