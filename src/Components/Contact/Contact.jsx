@@ -54,10 +54,10 @@ export default function Contact() {
                         <b>What's your story ?</b> Get in touch. Always available for freelancing if the right project comes along me.
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
-                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4' type="text" placeholder='Your Name' name='user_name' />
-                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4' type="text" placeholder='Subject' name='user_subject' />
-                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4' type="Email" placeholder='Email' name='user_email' />
-                        <textarea style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4' name="message" rows="5" placeholder='Your Message'></textarea>
+                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4 text-warning' type="text" placeholder='Your Name' name='user_name' />
+                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4 text-warning' type="text" placeholder='Subject' name='user_subject' />
+                        <input style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4 text-warning' type="Email" placeholder='Email' name='user_email' />
+                        <textarea style={{ backgroundColor: darkMode && "#444" }} className='form-control mb-4 text-warning' name="message" rows="5" placeholder='Your Message'></textarea>
                         <div className="text-center">
                             <button className='btn btn-warning px-5 py-2' >Submit</button>
                         </div>

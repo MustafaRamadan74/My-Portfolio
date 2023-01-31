@@ -3,7 +3,6 @@ import "./Product.css"
 import project1 from "../../imgs/project1.png"
 import project2 from "../../imgs/project2.png"
 import project3 from "../../imgs/project3.png"
-import project4 from "../../imgs/project4.png"
 import project5 from "../../imgs/project5.png"
 import project6 from "../../imgs/project6.png"
 import project7 from "../../imgs/project7.png"
@@ -20,7 +19,7 @@ export default function Product() {
                 <div className="p-circle"></div>
                 <div className="p-circle"></div>
             </div>
-            <a href={"https://github.com/MustafaRamadan74"} target="_blank" rel='noreferrer'>
+            <a href={"https://mustafaramadan74.github.io/Trending/"} target="_blank" rel='noreferrer'>
                 <img className='img-project' src={project10} alt="it's a project" />
             </a>
         </div>
