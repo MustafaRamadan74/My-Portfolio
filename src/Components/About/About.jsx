@@ -24,7 +24,7 @@ export default function About() {
                     <img src={certificate} alt="" className="award-img" />
                     <div className='award-text'>
                         <h3 className='award-title'>Front End Development Diploma</h3>
-                        <p className="award-desc">proudly i take this certificate for successfully completed the front end development diploma.</p>
+                        <p className="award-desc">proudly I took this certificate for successfully completing the front-end development diploma.</p>
                     </div>
                 </div>
             </div>

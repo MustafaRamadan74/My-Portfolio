@@ -48,6 +48,15 @@
     justify-content: center;
 }
 
+.c-left a {
+    text-decoration: none;
+    color: gold;
+}
+
+.c-left a:hover {
+    color: gold;
+}
+
 @media screen and (max-width: 480px) {
     .c-wrapper {
         flex-direction: column;

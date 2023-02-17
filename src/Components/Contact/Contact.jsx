@@ -35,14 +35,14 @@ export default function Contact() {
                             <i class="fa-solid fa-phone-volume fa-2x text-warning"></i>
                             <div className='h4'>+201557227144</div>
                         </div>
-                        <div className="info-item">
+                        <a href='https://wa.me/+201015950011' target={"_blank"} rel={"noreferrer"} className="info-item">
                             <i class="fa-brands fa-square-whatsapp fa-2x text-warning"></i>
                             <div className='h4'>+201015950011</div>
-                        </div>
-                        <div className="info-item">
+                        </a>
+                        <a href='mailto:mafroto74@gmail.com' target={"_blank"} rel={"noreferrer"} className="info-item">
                             <i class="fa-solid fa-envelope fa-2x text-warning"></i>
                             <div className='h4'>mafroto74@gmail.com</div>
-                        </div>
+                        </a>
                         <div className="info-item">
                             <i class="fa-solid fa-location-dot fa-2x text-warning"></i>
                             <div className='h4'>Cairo, Egypt</div>
