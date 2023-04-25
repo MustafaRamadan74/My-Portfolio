@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.0629b96f.css",
-    "main.js": "/My-Portfolio/static/js/main.03e34aee.js",
+    "main.js": "/My-Portfolio/static/js/main.1998f233.js",
     "static/js/787.28cb0dcd.chunk.js": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Trending.png": "/My-Portfolio/static/media/Trending.8006e9108c149edb0ee7.png",
     "static/media/Yummy.png": "/My-Portfolio/static/media/Yummy.55139db7cfe2963a1a9a.png",
     "static/media/project3.png": "/My-Portfolio/static/media/project3.3f881af3ef7ca37513ae.png",
-    "static/media/project9.png": "/My-Portfolio/static/media/project9.32c656a27e5c54c8baa1.png",
     "static/media/project1.png": "/My-Portfolio/static/media/project1.35e45a59b96f42a30139.png",
     "static/media/1.jpg": "/My-Portfolio/static/media/1.9eb55645e2b135c208d3.jpg",
+    "static/media/caravanStore.png": "/My-Portfolio/static/media/caravanStore.2c06ccd9ec19945af129.png",
     "static/media/mePortfolio.png": "/My-Portfolio/static/media/mePortfolio.d8ae23030a190e94320c.png",
     "static/media/levillingApp.png": "/My-Portfolio/static/media/levillingApp.065434791e93a046fa37.png",
     "static/media/fa-solid-900.ttf": "/My-Portfolio/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
@@ -25,11 +25,11 @@
     "static/media/fa-v4compatibility.woff2": "/My-Portfolio/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.0629b96f.css.map": "/My-Portfolio/static/css/main.0629b96f.css.map",
-    "main.03e34aee.js.map": "/My-Portfolio/static/js/main.03e34aee.js.map",
+    "main.1998f233.js.map": "/My-Portfolio/static/js/main.1998f233.js.map",
     "787.28cb0dcd.chunk.js.map": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0629b96f.css",
-    "static/js/main.03e34aee.js"
+    "static/js/main.1998f233.js"
   ]
 }
