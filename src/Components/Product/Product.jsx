@@ -7,7 +7,7 @@ import levillingApp from "../../imgs/levillingApp.png"
 import traverseAdj from "../../imgs/traverseAdjustment.png"
 import PharmacyCRUD from "../../imgs/PharmacyCRUD.png"
 import Yummy from "../../imgs/Yummy.png"
-import project9 from "../../imgs/project9.png"
+import caravan from "../../imgs/caravanStore.png"
 import Trending from "../../imgs/Trending.png"
 
 export default function Product() {
@@ -24,7 +24,17 @@ export default function Product() {
             </a>
         </div>
         <div className="p">
-        <div className="p-browser">
+            <div className="p-browser">
+                <div className="p-circle"></div>
+                <div className="p-circle"></div>
+                <div className="p-circle"></div>
+            </div>
+            <a href={"https://github.com/MustafaRamadan74"} target="_blank" rel='noreferrer'>
+                <img className='img-project' src={caravan} alt="it's a project" />
+            </a>
+        </div>
+        <div className="p">
+            <div className="p-browser">
                 <div className="p-circle"></div>
                 <div className="p-circle"></div>
                 <div className="p-circle"></div>
@@ -71,16 +81,6 @@ export default function Product() {
             </div>
             <a href={"https://mustafaramadan74.github.io/Traverse-Adjustment/"} target="_blank" rel='noreferrer'>
                 <img className='img-project' src={traverseAdj} alt="it's a project" />
-            </a>
-        </div>
-        <div className="p">
-            <div className="p-browser">
-                <div className="p-circle"></div>
-                <div className="p-circle"></div>
-                <div className="p-circle"></div>
-            </div>
-            <a href={"https://github.com/MustafaRamadan74"} target="_blank" rel='noreferrer'>
-                <img className='img-project' src={project9} alt="it's a project" />
             </a>
         </div>
         <div className="p">
