@@ -9,9 +9,26 @@ import PharmacyCRUD from "../../imgs/PharmacyCRUD.png"
 import Yummy from "../../imgs/Yummy.png"
 import caravan from "../../imgs/caravanStore.png"
 import Trending from "../../imgs/Trending.png"
+import Routing2 from "../../imgs/routing2.JPG"
+import Routing3 from "../../imgs/routing3.JPG"
+import Routing4 from "../../imgs/routing4.JPG"
 
 export default function Product() {
     return <>
+
+<div className="p">
+            <div className="p-browser">
+                <div className="p-circle"></div>
+                <div className="p-circle"></div>
+                <div className="p-circle"></div>
+                <p className='mx-4 my-auto text-dark fw-bolder'>Routing App</p>
+            </div>
+            <a href={"https://mustafaramadan74.github.io/Routing-App/"} target="_blank" rel='noreferrer'>
+                <img className='img-project' src={Routing2} alt="it's a project" />
+                <img className='img-project' src={Routing3} alt="it's a project" />
+                <img className='img-project' src={Routing4} alt="it's a project" />
+            </a>
+        </div>
 
         <div className="p">
             <div className="p-browser">
@@ -24,6 +41,7 @@ export default function Product() {
                 <img className='img-project' src={Trending} alt="it's a project" />
             </a>
         </div>
+
         <div className="p">
             <div className="p-browser">
                 <div className="p-circle"></div>
