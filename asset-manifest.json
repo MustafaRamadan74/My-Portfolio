@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.5b52b7bd.css",
-    "main.js": "/My-Portfolio/static/js/main.17d92327.js",
+    "main.js": "/My-Portfolio/static/js/main.93ffd8cb.js",
     "static/js/787.28cb0dcd.chunk.js": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Trending.png": "/My-Portfolio/static/media/Trending.8006e9108c149edb0ee7.png",
     "static/media/Yummy.png": "/My-Portfolio/static/media/Yummy.55139db7cfe2963a1a9a.png",
@@ -12,7 +12,10 @@
     "static/media/mePortfolio.png": "/My-Portfolio/static/media/mePortfolio.d8ae23030a190e94320c.png",
     "static/media/levillingApp.png": "/My-Portfolio/static/media/levillingApp.065434791e93a046fa37.png",
     "static/media/fa-solid-900.ttf": "/My-Portfolio/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/routing2.JPG": "/My-Portfolio/static/media/routing2.f9d9773bbf19bf14ff02.JPG",
     "static/media/PharmacyCRUD.png": "/My-Portfolio/static/media/PharmacyCRUD.f12a492f3999acf9e868.png",
+    "static/media/routing4.JPG": "/My-Portfolio/static/media/routing4.51f216bab243eaeeed07.JPG",
+    "static/media/routing3.JPG": "/My-Portfolio/static/media/routing3.194961a2790026ab6da6.JPG",
     "static/media/FrontEndCert.JPG": "/My-Portfolio/static/media/FrontEndCert.04556d4ff0069330b295.JPG",
     "static/media/fa-brands-400.ttf": "/My-Portfolio/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/My-Portfolio/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -25,11 +28,11 @@
     "static/media/fa-v4compatibility.woff2": "/My-Portfolio/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.5b52b7bd.css.map": "/My-Portfolio/static/css/main.5b52b7bd.css.map",
-    "main.17d92327.js.map": "/My-Portfolio/static/js/main.17d92327.js.map",
+    "main.93ffd8cb.js.map": "/My-Portfolio/static/js/main.93ffd8cb.js.map",
     "787.28cb0dcd.chunk.js.map": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b52b7bd.css",
-    "static/js/main.17d92327.js"
+    "static/js/main.93ffd8cb.js"
   ]
 }
