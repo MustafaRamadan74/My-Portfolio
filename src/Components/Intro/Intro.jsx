@@ -1,12 +1,13 @@
-import React from 'react'
-import "./Intro.css"
-import me from '../../imgs/mePortfolio.png'
+import React from 'react';
+import "./Intro.css";
+import me from '../../imgs/mePortfolio.png';
+import CV from "./CV.pdf";
 
 export default function Intro() {
     return <>
 
         <div className='i'>
-            <div className="i-left">
+            <div className="i-left flex-column">
                 <div className="i-left-wrapper">
                     <h2 className='i-intro'>Hello, My Name Is </h2>
                     <h1 className='i-name'>Mustafa Ramadan</h1>
@@ -23,11 +24,14 @@ export default function Intro() {
                             </div>
                         </div>
                     </div>
-                    <div className="desc">
+                    <div className="desc ">
                         I design and develop services for customers of all sizes, specializing in creating stylish, modern websites, web services, online stores.
                     </div>
-                    
+
+
+
                 </div>
+                    <a className='btn btn--download bg-warning' href={CV} >Download CV</a>
             </div>
             <div className="i-right">
                 <div className="i-bg"></div>
