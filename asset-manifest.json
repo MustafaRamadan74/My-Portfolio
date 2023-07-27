@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.5b52b7bd.css",
-    "main.js": "/My-Portfolio/static/js/main.af4b1c07.js",
+    "main.js": "/My-Portfolio/static/js/main.2c15a3e4.js",
     "static/js/787.28cb0dcd.chunk.js": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Trending.png": "/My-Portfolio/static/media/Trending.8006e9108c149edb0ee7.png",
     "static/media/Yummy.png": "/My-Portfolio/static/media/Yummy.55139db7cfe2963a1a9a.png",
@@ -12,7 +12,7 @@
     "static/media/caravanStore.png": "/My-Portfolio/static/media/caravanStore.2c06ccd9ec19945af129.png",
     "static/media/mePortfolio.png": "/My-Portfolio/static/media/mePortfolio.d8ae23030a190e94320c.png",
     "static/media/levillingApp.png": "/My-Portfolio/static/media/levillingApp.065434791e93a046fa37.png",
-    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.718bf87cbf747e60d428.pdf",
+    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.fdbe9685023d7e2f93d5.pdf",
     "static/media/fa-solid-900.ttf": "/My-Portfolio/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/routing2.JPG": "/My-Portfolio/static/media/routing2.f9d9773bbf19bf14ff02.JPG",
     "static/media/PharmacyCRUD.png": "/My-Portfolio/static/media/PharmacyCRUD.f12a492f3999acf9e868.png",
@@ -30,11 +30,11 @@
     "static/media/fa-v4compatibility.woff2": "/My-Portfolio/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.5b52b7bd.css.map": "/My-Portfolio/static/css/main.5b52b7bd.css.map",
-    "main.af4b1c07.js.map": "/My-Portfolio/static/js/main.af4b1c07.js.map",
+    "main.2c15a3e4.js.map": "/My-Portfolio/static/js/main.2c15a3e4.js.map",
     "787.28cb0dcd.chunk.js.map": "/My-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b52b7bd.css",
-    "static/js/main.af4b1c07.js"
+    "static/js/main.2c15a3e4.js"
   ]
 }
